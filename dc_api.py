@@ -10,12 +10,12 @@ import re
 DOCS_PER_PAGE = 200
 
 GET_HEADERS = {
-    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+    "User-Agent": "Mozilla/5.0 (iPad; CPU OS 10_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1"
      }
 XML_HTTP_REQ_HEADERS = {
     "Accept": "*/*",
     "Connection": "keep-alive",
-    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "User-Agent": "Mozilla/5.0 (iPad; CPU OS 10_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
     "X-Requested-With": "XMLHttpRequest",
     "Accept-Encoding": "gzip, deflate, br",
     "Accept-Language": "en-US,en;q=0.5",
@@ -31,7 +31,7 @@ POST_HEADERS = {
     "Connection": "keep-alive",
     "Pragma": "no-cache",
     "Upgrade-Insecure-Requests": "1",
-    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "User-Agent": "Mozilla/5.0 (iPad; CPU OS 10_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
     }
 
 GALLERY_POSTS_COOKIES = {
